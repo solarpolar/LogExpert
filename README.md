@@ -33,7 +33,7 @@ Requirements
 - .NET 4.7.2
 
 ## CI
-This is a continous integration build. So always the latest and greates changes. It should be stable but no promises. Can be viewed as Beta.
+This is a continous integration build. So always the latest and greatest changes. It should be stable but no promises. Can be viewed as Beta.
 
 [CI Download](https://ci.appveyor.com/project/Zarunbal/logexpert)
 
